@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=makcakir&color=orange)
 - 👋 Hi, I’m @makcakir
 - 👀 I’m interested in **software architecture** and **mobile applications**
 - 📫 How to reach me:
